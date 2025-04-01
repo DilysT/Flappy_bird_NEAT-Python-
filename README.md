@@ -23,6 +23,9 @@ To train a new AI model, run:
 python flappy_bird.py
 ```
 The AI will evolve over multiple generations to improve its performance.
+<p align="center">
+  <img src="{53A78D66-4595-488A-B6DC-8D1BE2B37312}.png" width="400">
+</p>
 
 ### 2️⃣ Running a test AI model
 If you have already trained an AI and saved the best model to the best_genome.json, you can run it using:
